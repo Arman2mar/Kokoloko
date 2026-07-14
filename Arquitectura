@@ -1,0 +1,23 @@
+# 🏗️ Arquitectura Limpia · Kokoloko Core
+
+> **Objetivo:** Definir una estructura desacoplada, visible, inmutable y altamente mantenible para el procesamiento universal del conocimiento.
+
+---
+
+## 층 Capas del Sistema (The Layer Matrix)
+
+Kokoloko no fragmenta el conocimiento; lo organiza en capas concéntricas de abstracción:
+
+*   **1. Capa de Presentación (UI Engine):** Renderizado reactivo y dinámico basado en esquemas. Interfaz corporativa integrada bajo el contraste de la tríada visual (Negro/Naranja/Oro).
+*   **2. Capa de Filosofía (Ontology Engine):** Mapeo de reglas de negocio, doctrinas o leyes como código ejecutable lineal.
+*   **3. Capa de Estructura (Core Engine):** Modelado de datos estructurados y bases vectoriales no estructurales.
+*   **4. Capa de Identidad (Security & Cryptography):** Cifrado de extremo a extremo (E2EE), control de acceso por roles y firmas digitales de validación.
+*   **5. Capa de Evolución (Predictive AI & Audit):** Trazabilidad histórica inmutable de cambios y motor de analítica predictiva.
+
+---
+
+## 🚦 Orden de Ejecución Sugerido
+
+```text
+📂 [01. PORTADA] ──> 📄 [02. MANIFIESTO] ──> ⚙️ [03. COMPONENTES] ──> 🔄 [04. CAMBIOS] ──> 🎨 [05. RECURSOS]
+
